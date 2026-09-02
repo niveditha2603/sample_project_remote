@@ -1,0 +1,1 @@
+this is just sample explanation of git concept version coontrol system
